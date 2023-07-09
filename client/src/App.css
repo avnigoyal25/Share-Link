@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background: black;
+  overflow: hidden;
+  display: flex;
+  height: 565px;
+}
+img{
+  width: 400px;
+}
+.wrapper{
+  background-color: white;
+  width: 600px;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+  color: gray;
+  margin: 40px 0;
+}
+button{
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #445A6F;
+  border: 1px solid #445A6F;
+  color: white;
+  font-size: 20px;
+  margin: 40px 0;
+  cursor: pointer;
+}
+a{
+  color: rgb(3, 3, 85);
+}
