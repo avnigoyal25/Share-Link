@@ -18,5 +18,7 @@ The Link Share Application is a web-based file sharing tool that allows users to
 # Technology used
 
 Front-end: React
+
 Back-end: Node.js, Express.js
+
 Database: MongoDB
