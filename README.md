@@ -1,3 +1,5 @@
+![Screenshot (129)](https://github.com/avnigoyal25/Share-Link/assets/91952706/8be392f7-7294-4eeb-9b34-e854781f04c7)
+
 # Share-Link
 
 The Link Share Application is a web-based file sharing tool that allows users to upload files and generate direct download links. With this application, you can effortlessly share files with others by simply providing them with the generated links.
